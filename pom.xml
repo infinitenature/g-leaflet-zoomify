@@ -6,22 +6,22 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<version>0.0.1-SNAPSHOT</version>
-	<groupId>de.vegetweb</groupId>
+	<groupId>org.infinitenature</groupId>
 	<artifactId>g-leaflet-zoomify</artifactId>
 	<packaging>jar</packaging>
 	<name>g-leaflet-zoomify</name>
 
 	<scm>
-		<url>git://github.com/mstahv/g-leaflet-heat.git</url>
-		<connection>scm:git:git://github.com/mstahv/g-leaflet-heat.git</connection>
-		<developerConnection>scm:git:ssh://git@github.com:/mstahv/g-leaflet-heat.git</developerConnection>
+		<url>git://github.com/infinitenature/g-leaflet-zoomify.git</url>
+		<connection>scm:git:git://github.com/infinitenature/g-leaflet-zoomify.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com:/infinitenature/g-leaflet-zoomify.git</developerConnection>
 	</scm>
 
 	<dependencies>
 		<dependency>
 			<groupId>org.peimari</groupId>
 			<artifactId>g-leaflet</artifactId>
-			<version>1.0.4</version>
+			<version>1.0.5-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>com.google.gwt</groupId>
