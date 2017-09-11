@@ -5,7 +5,7 @@
 	<!-- POM file generated with GWT webAppCreator -->
 	<modelVersion>4.0.0</modelVersion>
 
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<groupId>org.infinitenature</groupId>
 	<artifactId>g-leaflet-zoomify</artifactId>
 	<packaging>jar</packaging>
